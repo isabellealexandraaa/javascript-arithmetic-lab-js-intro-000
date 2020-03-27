@@ -9,7 +9,7 @@ function subtract (a,b) {
   return number;
 }
 
-function multiple (a,b) {
+function multiply (a,b) {
   number = a * b;
   return number;
 }
