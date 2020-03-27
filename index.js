@@ -23,3 +23,8 @@ function increment (n) {
   number = ++n;
   return number;
 }
+
+function decrement (n) {
+  number = --n;
+  return number;
+}
