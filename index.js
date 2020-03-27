@@ -28,3 +28,8 @@ function decrement (n) {
   number = --n;
   return number;
 }
+
+function makeInt (n) {
+  parseInt (n, 10);
+  return number;
+}
