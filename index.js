@@ -18,3 +18,8 @@ function divide (a,b) {
   number = a / b;
   return number;
 }
+
+function increment (n) {
+  number = ++n;
+  return number;
+}
